@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Deutsch [Sie]" date_format="j. F Y" time_format="H:i" decimal_point="," thousands_separator="." language_code="de-DE" text_direction="LTR" addon_id="xendach">
+  <phrase title="trophy_1_description" addon_id="" version_id="0" version_string=""><![CDATA[Erstellen Sie einen Beitrag auf dieser Seite, um diesen Erfolg zu erzielen.]]></phrase>
+  <phrase title="trophy_1_title" addon_id="" version_id="0" version_string=""><![CDATA[Ihr erster Beitrag]]></phrase>
+  <phrase title="trophy_2_description" addon_id="" version_id="0" version_string=""><![CDATA[Sie haben schon 30 Beiträge verfasst. Es scheint Ihnen hier zu gefallen!]]></phrase>
+  <phrase title="trophy_2_title" addon_id="" version_id="0" version_string=""><![CDATA[Kehren Sie wieder zurück]]></phrase>
+  <phrase title="trophy_3_description" addon_id="" version_id="0" version_string=""><![CDATA[Sie haben nun schon 100 Beiträge verfasst. Ich hoffe nicht alle an einem Tag!]]></phrase>
+  <phrase title="trophy_3_title" addon_id="" version_id="0" version_string=""><![CDATA[Sie sind nicht zu stoppen!]]></phrase>
+  <phrase title="trophy_4_description" addon_id="" version_id="0" version_string=""><![CDATA[1000 Beiträge? Beeindruckend!]]></phrase>
+  <phrase title="trophy_4_title" addon_id="" version_id="0" version_string=""><![CDATA[Sie sind süchtig!]]></phrase>
+  <phrase title="trophy_5_description" addon_id="" version_id="0" version_string=""><![CDATA[Jemandem gefällt einer Ihrer Beiträge. Erstellen Sie weitere Beiträge, um zusätzliche Zustimmungen zu erhalten!]]></phrase>
+  <phrase title="trophy_5_title" addon_id="" version_id="0" version_string=""><![CDATA[Jemandem stimmt Ihnen zu]]></phrase>
+  <phrase title="trophy_6_description" addon_id="" version_id="0" version_string=""><![CDATA[Ihre Beiträge haben nun schon 25 Zustimmungen erhalten.]]></phrase>
+  <phrase title="trophy_6_title" addon_id="" version_id="0" version_string=""><![CDATA[Wir mögen es sehr!]]></phrase>
+  <phrase title="trophy_7_description" addon_id="" version_id="0" version_string=""><![CDATA[Sie haben soeben Ihre 100. Zustimmung erhalten.]]></phrase>
+  <phrase title="trophy_7_title" addon_id="" version_id="0" version_string=""><![CDATA[Sehr liebenswert!]]></phrase>
+  <phrase title="trophy_8_description" addon_id="" version_id="0" version_string=""><![CDATA[Ihre Inhalte scheinen zu gefallen, denn Sie haben nun exakt 250 Zustimmungen erhalten.]]></phrase>
+  <phrase title="trophy_8_title" addon_id="" version_id="0" version_string=""><![CDATA[Wir bekommen nicht genug von Ihrem Zeug!]]></phrase>
+  <phrase title="trophy_9_description" addon_id="" version_id="0" version_string=""><![CDATA[Die Mitglieder fühlen sich zu Ihnen hingezogen, oder wie erklärst Sie sich Ihre 500 Zustimmungen? ]]></phrase>
+  <phrase title="trophy_9_title" addon_id="" version_id="0" version_string=""><![CDATA[ICH LIEBE ES!]]></phrase>
+  <phrase title="user_field_aim" addon_id="" version_id="0" version_string=""><![CDATA[AIM]]></phrase>
+  <phrase title="user_field_aim_desc" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_facebook" addon_id="" version_id="0" version_string=""><![CDATA[Facebook]]></phrase>
+  <phrase title="user_field_facebook_desc" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_gtalk" addon_id="" version_id="0" version_string=""><![CDATA[Google Talk]]></phrase>
+  <phrase title="user_field_gtalk_desc" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_icq" addon_id="" version_id="0" version_string=""><![CDATA[ICQ]]></phrase>
+  <phrase title="user_field_icq_desc" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_msn" addon_id="" version_id="0" version_string=""><![CDATA[Windows Live]]></phrase>
+  <phrase title="user_field_msn_desc" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_skype" addon_id="" version_id="0" version_string=""><![CDATA[Skype]]></phrase>
+  <phrase title="user_field_skype_desc" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_twitter" addon_id="" version_id="0" version_string=""><![CDATA[Twitter]]></phrase>
+  <phrase title="user_field_twitter_desc" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_yahoo" addon_id="" version_id="0" version_string=""><![CDATA[Yahoo! Messenger]]></phrase>
+  <phrase title="user_field_yahoo_desc" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="warning_definition_1_conversation_text" addon_id="" version_id="0" version_string=""><![CDATA[Hallo {name}
+
+Ihr Beitrag ([url={url}]{title}[/url]) enthält unangebrachten Inhalt. Bitte diskutieren Sie Dinge dieser Art nicht auf unserer Seite, da es gegen unsere Regeln verstößt. Ihr Beitrag wurde entfernt oder verändert.
+
+Die Möglichkeiten Ihres Benutzerkontos können aufgrund dieser Handlungen eingeschränkt werden. Bitte denken Sie daran, wenn Sie die Seite zukünftig verwenden.]]></phrase>
+  <phrase title="warning_definition_1_conversation_title" addon_id="" version_id="0" version_string=""><![CDATA[Unangebrachter Inhalt]]></phrase>
+  <phrase title="warning_definition_1_title" addon_id="" version_id="0" version_string=""><![CDATA[Unangebrachter Inhalt]]></phrase>
+  <phrase title="warning_definition_2_conversation_text" addon_id="" version_id="0" version_string=""><![CDATA[Hallo {name}
+
+Ihre Aktionen im Beitrag ([url={url}]{title}[/url]) waren nicht angebracht. Wir können es unseren Benutzern nicht gestatten beleidigend, abfällig, übermäßig aggressiv sowie bedrohend zu sein oder "herumzutrollen, da es gegen unsere Regeln verstößt. Ihr Beitrag wurde entfernt oder verändert.
+
+Die Möglichkeiten Ihres Benutzerkontos können aufgrund dieser Handlungen eingeschränkt werden. Bitte denken Sie daran, wenn Sie die Seite zukünftig verwenden.]]></phrase>
+  <phrase title="warning_definition_2_conversation_title" addon_id="" version_id="0" version_string=""><![CDATA[Unangebrachtes Verhalten]]></phrase>
+  <phrase title="warning_definition_2_title" addon_id="" version_id="0" version_string=""><![CDATA[Unangebrachtes Verhalten]]></phrase>
+  <phrase title="warning_definition_3_conversation_text" addon_id="" version_id="0" version_string=""><![CDATA[Hallo {name}
+
+Ihr Beitrag ([url={url}]{title}[/url]) enthält eine unangebrachte Sprache, die gegen unsere Regeln verstößt. Ihr Beitrag wurde entfernt oder verändert.
+
+Die Möglichkeiten Ihres Benutzerkontos können aufgrund dieser Handlungen eingeschränkt werden. Bitte denken Sie daran, wenn Sie die Seite zukünftig verwenden.]]></phrase>
+  <phrase title="warning_definition_3_conversation_title" addon_id="" version_id="0" version_string=""><![CDATA[Unangebrachte Sprache]]></phrase>
+  <phrase title="warning_definition_3_title" addon_id="" version_id="0" version_string=""><![CDATA[Unangebrachte Sprache]]></phrase>
+  <phrase title="warning_definition_4_conversation_text" addon_id="" version_id="0" version_string=""><![CDATA[Hallo {name}
+
+Ihr Beitrag ([url={url}]{title}[/url]) enthält unangebrachte Werbung oder Spam. Dies verstößt gegen unsere Regeln. Ihr Beitrag wurde entfernt oder verändert.
+
+Die Möglichkeiten Ihres Benutzerkontos können aufgrund dieser Handlungen eingeschränkt werden. Bitte denken Sie daran, wenn Sie die Seite zukünftig verwenden.]]></phrase>
+  <phrase title="warning_definition_4_conversation_title" addon_id="" version_id="0" version_string=""><![CDATA[Unangebrachte Werbung / Spam]]></phrase>
+  <phrase title="warning_definition_4_title" addon_id="" version_id="0" version_string=""><![CDATA[Unangebrachte Werbung / Spam]]></phrase>
+</language>
